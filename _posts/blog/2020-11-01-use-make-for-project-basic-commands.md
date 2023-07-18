@@ -10,7 +10,7 @@ tags: [make] # add tag
 When we start a new project or we switch to an old project we always bump to the problem with the different commands to execute to start, build, deploy our application. Sometimes we use docker, sometimes we compile a binary to run and sometimes we have a list of commands to execute only to have our environment ready for development. 
 
 One way to keep a trace of the available commands is to define them inside a Makefile and to use the globally know make command to execute the needed one. 
-
+aaa
 In this post I will explain some of the commands that I use and why its important to keep all this information available and why to Makefile is one of the solutions.
 
 Introduction
